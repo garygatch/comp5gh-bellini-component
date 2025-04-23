@@ -1,6 +1,6 @@
 {
-  "type": "component",
-  "name": "comp5gh1",
+  "type": "custom-component",
+  "name": "b",
   "children": [],
   "variables": [],
   "bindings": [],
